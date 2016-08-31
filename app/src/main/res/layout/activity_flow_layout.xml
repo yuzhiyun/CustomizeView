@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yuzhiyun.customizeview.view.custom.FlowLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent">
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+    android:text="haha"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="俞志云你好，我是傻逼，你是谁"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="我要fafengla，我要毕业啦，我要开心，我傻逼"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="俞志云"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:text="俞志云"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:text="俞志云"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:text="俞志云你好，我是傻逼，你是谁"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="haha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:background="@drawable/round_button_back"
+        android:layout_marginRight="10dp"
+        android:text="我勒个去"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</com.yuzhiyun.customizeview.view.custom.FlowLayout>
